@@ -1,0 +1,18 @@
+mode: set
+github.com/septianw/bara/libs/model/models.go:21.34,26.2 3 1
+github.com/septianw/bara/libs/model/models.go:29.27,35.44 5 1
+github.com/septianw/bara/libs/model/models.go:39.3,39.39 1 1
+github.com/septianw/bara/libs/model/models.go:43.3,43.13 1 1
+github.com/septianw/bara/libs/model/models.go:35.44,37.4 1 1
+github.com/septianw/bara/libs/model/models.go:39.39,41.4 1 1
+github.com/septianw/bara/libs/model/models.go:45.44,49.17 3 1
+github.com/septianw/bara/libs/model/models.go:52.3,52.17 1 1
+github.com/septianw/bara/libs/model/models.go:57.3,57.13 1 1
+github.com/septianw/bara/libs/model/models.go:49.17,51.4 1 1
+github.com/septianw/bara/libs/model/models.go:52.17,55.4 2 1
+github.com/septianw/bara/libs/model/models.go:59.27,62.17 2 1
+github.com/septianw/bara/libs/model/models.go:66.3,66.13 1 1
+github.com/septianw/bara/libs/model/models.go:62.17,64.4 1 1
+github.com/septianw/bara/libs/model/models.go:68.27,71.17 2 1
+github.com/septianw/bara/libs/model/models.go:75.3,75.13 1 1
+github.com/septianw/bara/libs/model/models.go:71.17,73.4 1 1

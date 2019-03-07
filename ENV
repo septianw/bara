@@ -1,0 +1,4 @@
+export LOGFILE=/tmp/bara.log
+export LOGLEVEL=all
+export DBTYPE=postgres
+export DBCONNECTION="host=localhost user=postgres dbname=bara sslmode=disable password=root"
